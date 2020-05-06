@@ -38,8 +38,78 @@ decimal=0.2+0.1======0.3 right answer
  
  .join()
   will convert listinto string and string into list  
- 
- 
- 
- 
- 
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+  
+  Siemens senior Data Scientist Interview Questions:
+  
+  1.what init function will do:
+  
+  2.what is self and what is the prupose:
+  
+  3.what is the purpose of main function what it will do
+  in java void main is the strating point of the code, like wise main in python will give the starting point 
+  if --name--: --main--
+   demo()
+   demo1()
+   demo()
+   we can mention in the order of the code so that we can understand the code easily
+  4.how to trigger your machine learning model
+  5.if deployment code in large how do you split the file in different function (each function has same load like this....)
+  6.while managing a team which is first preference (time maintenance or quality of the model and code)
+  7.abs constructor in class ---did u used this
+  8.what kind of format u r using for model developement and deployment (like func or class or anything else)
+  9.how to stroe the trained model ---ans: pickle and PMML
+  10.
+  
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  OOPs concept:
+  #########  https://www.youtube.com/watch?v=4U19qSnU3vo&list=LL8pANGQnYGeOyT_PGzw3G2w&index=8&t=0s
+  python and java is the interpreter language
+  
+  interpreter includes compiler and byte code and  virtual machine ---it runs each line and gives output
+  
+  c c++  ----compiler language
+  whole program check the syntax and convert into machine language and gives output
+  
+  
+  OOOPS concet SAntra Techspot 
+  
+  
+  before ooops -- Function oriented method (Procedure oriented program)used for programming 
+  it converts long code into multiple functions
+  drawback ---after running all codes we will get error.
+  
+  oops four pillars
+  inheritance, encapsulation, Abstraction, polymorphism
+  
+  oops developement is new programming style 
+  it converts big code into small units called object
+  
+  oops:
+  object
+  class
+  data abstraction
+  data encapsulation
+  polymorphism
+  inheritance
+  dynamic binding message passing
+  
+  
+  class sample():
+   def sum(a,b)
+   return a+b
+   
+   obj=sample()
+   obj=sample.sum(a,b)
+
+So calling the one set of work progrees in class format is called object
+object can include multiple classes.
+
+
+
+
+
+
+
+
