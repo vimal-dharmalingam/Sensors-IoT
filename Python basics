@@ -1,0 +1,45 @@
+ https://www.youtube.com/watch?v=t5Nmi9KDonw
+ 
+In python All are objects in python/not a premitive type
+ "python"------>>> "python".upper() can call in method 
+ 
+ Its a dynamically typed language,
+No need to give data type before giving nujmber
+
+Its Strongly typed : cannot add text and numbers but in java we can do this process
+IN python there is no upper limit (Only computer menory is the max) --- in java max int size is there
+
+It supports decimal,float,hexadecimal binary
+
+https://www.vedantu.com/maths/bodmas-rule--------read this basics 
+difference between float and decimal 
+float 0.2+0.1======0.30000000000004   this inaccuaracy problem in all languages (in finance it makes bigger issue)
+decimal=0.2+0.1======0.3 right answer 
+ 
+ 
+ ' Python'.strip().capitalize()--can use one method output to another method input-its called chaining
+ 
+ string ia a sequence object ()its in order
+ 
+ variable----it identify the location in the memory
+ variable name should contain number letters and underscore (So that interpreter will not get confused),spaces are not allowed.
+ variable name is a identifier
+ variable will create automatically when we assign the value(in java ,c -- need to declare the value and it stored some value if its undefined)
+ 
+ 
+ no need to terminate the line using :; like java c
+ 
+ 
+ append will consider the new elemnet  as single element and append it
+ extend -will add one by one into the existing list
+ ['list of values']-----.sort()  will change the original value
+ 
+ sorted(list)-will show the sorted list and its not short the original value
+ 
+ .join()
+  will convert listinto string and string into list  
+ 
+ 
+ 
+ 
+ 
